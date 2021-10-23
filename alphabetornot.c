@@ -16,6 +16,7 @@ else{
           printf("It is not a character.");
 
 }
+printf("I have pushed it on the Github.");
 return 0;
 
 
