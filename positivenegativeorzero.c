@@ -20,9 +20,13 @@ int main(){
           {
                     printf("THE NUMBER ENTERED IS ZERO.");
 
+
           }
-          return 0;
+
+          printf("I have again pushed it to github");
           
+          return 0;
+
 }
 
 
