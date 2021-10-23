@@ -20,7 +20,7 @@ else if(num3>num1 && num3>num2)
 }
 
 printf("The maximum number out of the given three number is:%d. ", max);
-printf("I have learnt how to push code to github");
+
 
 return 0;
 
