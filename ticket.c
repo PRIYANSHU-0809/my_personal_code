@@ -15,7 +15,11 @@ int main()
 
           printf("Please enter your age .\n");
           scanf("%d", &age);
-           
+          printf("Do you want to opt for health insurance?\n");
+          printf("Select Y or N \n");
+
+      
+     
            if(age>=15)
            {
                      printf("Please wait while we are processing your ticket.....\n");
