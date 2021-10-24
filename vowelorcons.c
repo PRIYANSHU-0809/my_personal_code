@@ -13,6 +13,8 @@ if(sym=='a'|| sym=='e'|| sym=='i'||sym=='o'||sym=='u',sym=='A'|| sym=='E'|| sym=
 else{
           printf("The input is consonant.");
 }
+printf("Hello Linkedin Family");
+
 return 0;
 
 }
