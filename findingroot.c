@@ -37,6 +37,8 @@ int main(){
                     printf("Sorry! The value of roots for the given quadratic equation does not exist.");
           }
 
+          printf("Hi , i have learned to push code on github.\n");
+          
           
           return 0;
 
