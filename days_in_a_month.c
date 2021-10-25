@@ -53,7 +53,9 @@ else if(mon==11){
 else if(mon==12){
           printf("The number of days in December is 31.\n");
 
-}                                       
+}
+printf("In this way you can calculate ");
+
 return 0;
 
 
