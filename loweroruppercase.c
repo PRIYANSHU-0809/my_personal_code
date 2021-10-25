@@ -14,6 +14,10 @@ else {
           printf("The alphabet entered is in upper case.");
 
 }
+
+printf("My name is Priyanshu Kumar.\n");
+printf("I'm currently in my 1st semester .");
+
 return 0;
 
 
