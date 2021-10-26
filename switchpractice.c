@@ -20,6 +20,10 @@ default: printf("Your rating is invalid.You have not given the rating between 1-
 
 
 }
+
+
+printf("Now I understand what this switch command is doing\n");
+
 return 0;
 
 }
