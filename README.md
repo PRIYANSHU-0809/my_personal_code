@@ -1,0 +1,1 @@
+I'm creating this repository to learn git and Github by pushing each and every code to Github that I practice during my learning process. By this method I'm learning both the language and the usage and function of git and Github.
